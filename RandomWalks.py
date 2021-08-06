@@ -73,6 +73,6 @@ print("Q1 : ", end="")
 run_simulation(condition1)
 print("Q3 : ", end="")
 run_simulation(condition3)
-print("Q2 : ", end="")
-run_simulation(condition2, steps_per_sample=1000, n_batches=10)
+#print("Q2 : ", end="")
+#run_simulation(condition2, steps_per_sample=1000, n_batches=10)
 
